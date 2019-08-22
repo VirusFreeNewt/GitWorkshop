@@ -8,5 +8,6 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+Ethan Goodwin
+I like to mountain bike, and I can do yoyo tricks
+I hope to dial in computer science basics, and maybe learn some stuff along the way.
